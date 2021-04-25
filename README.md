@@ -9,5 +9,5 @@ In this assignments I have used bootstap and flask framework to do this homework
 * [Bootstrap](https://getbootstrap.com)
 
 ### Refernces
-*itmo-wad lecture materials(https://github.com/itmo-wad/lecture_materials)
+* itmo-wad lecture materials(https://github.com/itmo-wad/lecture_materials)
 * Megatutorial by Miguel(https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms-legacy)
